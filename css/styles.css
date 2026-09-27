@@ -202,7 +202,7 @@ a:hover {
 /* Navigation */
 .navbar {
     position: fixed;
-    top: 0;
+    top: var(--promo-h, 0px);
     left: 0;
     right: 0;
     background: rgba(15, 15, 35, 0.95);
@@ -337,7 +337,7 @@ a:hover {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding-top: 80px;
+    padding-top: calc(80px + var(--promo-h, 0px));
     overflow: hidden;
 }
 
@@ -653,7 +653,7 @@ section {
 @media (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        top: 80px;
+        top: calc(80px + var(--promo-h, 0px));
         left: 0;
         right: 0;
         background: var(--bg-primary);
