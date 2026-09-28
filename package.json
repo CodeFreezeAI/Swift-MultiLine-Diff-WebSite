@@ -30,11 +30,11 @@
   "homepage": "https://diff.xcf.ai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codefreezeai/swift-multi-line-diff.git",
+    "url": "https://github.com/AgentiLoop/AgentD1F.git",
     "directory": "website"
   },
   "bugs": {
-    "url": "https://github.com/codefreezeai/swift-multi-line-diff/issues"
+    "url": "https://github.com/AgentiLoop/AgentD1F/issues"
   },
   "devDependencies": {
     "csso-cli": "^4.0.2",
