@@ -1,5 +1,8 @@
 # MultiLineDiff Website
 
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
+
 The official website for MultiLineDiff - The World's Most Advanced Diffing System.
 
 ## 🌟 Features
